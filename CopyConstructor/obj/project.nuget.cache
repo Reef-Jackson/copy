@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "H9dNy/c1Zqc5+JA4LtHV5TYlyYpQfiC8JoCn/JJOnG81GyA2iVO9iprN7jq/9sad8XkYbq8669FNesAjQUsdvA==",
+  "success": true,
+  "projectFilePath": "/home/reef/Repos/copy/CopyConstructor/CopyConstructor.csproj",
+  "expectedPackageFiles": [
+    "/home/reef/.nuget/packages/spectre.console/0.47.0/spectre.console.0.47.0.nupkg.sha512",
+    "/home/reef/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
+    "/home/reef/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

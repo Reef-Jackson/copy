@@ -1,0 +1,17 @@
+/home/reef/Repos/copy/CopyConstructor/bin/Debug/net7.0/CopyConstructor
+/home/reef/Repos/copy/CopyConstructor/bin/Debug/net7.0/CopyConstructor.deps.json
+/home/reef/Repos/copy/CopyConstructor/bin/Debug/net7.0/CopyConstructor.runtimeconfig.json
+/home/reef/Repos/copy/CopyConstructor/bin/Debug/net7.0/CopyConstructor.dll
+/home/reef/Repos/copy/CopyConstructor/bin/Debug/net7.0/CopyConstructor.pdb
+/home/reef/Repos/copy/CopyConstructor/obj/Debug/net7.0/CopyConstructor.csproj.AssemblyReference.cache
+/home/reef/Repos/copy/CopyConstructor/obj/Debug/net7.0/CopyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+/home/reef/Repos/copy/CopyConstructor/obj/Debug/net7.0/CopyConstructor.AssemblyInfoInputs.cache
+/home/reef/Repos/copy/CopyConstructor/obj/Debug/net7.0/CopyConstructor.AssemblyInfo.cs
+/home/reef/Repos/copy/CopyConstructor/obj/Debug/net7.0/CopyConstructor.csproj.CoreCompileInputs.cache
+/home/reef/Repos/copy/CopyConstructor/obj/Debug/net7.0/CopyConstructor.dll
+/home/reef/Repos/copy/CopyConstructor/obj/Debug/net7.0/refint/CopyConstructor.dll
+/home/reef/Repos/copy/CopyConstructor/obj/Debug/net7.0/CopyConstructor.pdb
+/home/reef/Repos/copy/CopyConstructor/obj/Debug/net7.0/CopyConstructor.genruntimeconfig.cache
+/home/reef/Repos/copy/CopyConstructor/obj/Debug/net7.0/ref/CopyConstructor.dll
+/home/reef/Repos/copy/CopyConstructor/bin/Debug/net7.0/Spectre.Console.dll
+/home/reef/Repos/copy/CopyConstructor/obj/Debug/net7.0/CopyConstructor.csproj.CopyComplete
